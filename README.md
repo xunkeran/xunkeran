@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1E90FF&center=true&vCenter=true&width=720&height=64&lines=Hi%2C+I%27m+Xunkeran;Hi%EF%BC%8C%E6%88%91%E6%98%AF%E6%B5%94%E5%8F%AF%E7%84%B6;Automation+Control+%26+Robotics;Control+Theory+%C2%B7+MPC;RoboMaster+%C2%B7+%E7%94%B5%E6%8E%A7+%26+%E8%A7%86%E8%A7%89;Keep+Calm+and+Keep+Learning" alt="Hi, I'm Xunkeran" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1E90FF&center=true&vCenter=true&width=720&height=64&lines=Hi%2C+I%27m+Xun+Keran+%EF%BC%88%E6%B5%94%E5%8F%AF%E7%84%B6%EF%BC%89;Automation+Control+%26+Robotics;Keep+Calm+and+Keep+Learning;%E6%88%91%E5%BF%83%E5%8C%AA%E7%9F%B3%E4%B8%8D%E5%8F%AF%E8%BD%AC%EF%BC%8C%E6%88%91%E5%BF%83%E5%8C%AA%E5%B8%AD%E4%B8%8D%E5%8F%AF%E5%8D%B7" alt="Hi, I'm Xun Keran （浔可然）" />
 </p>
 
 <h3 align="center">浔可然 · Xunkeran</h3>
@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/在读-自动化-1f6feb?style=flat-square" alt="在读" />
+  <img src="https://img.shields.io/badge/在读-智能制造-1f6feb?style=flat-square" alt="在读" />
   <img src="https://img.shields.io/badge/方向-控制理论·MPC-8957e5?style=flat-square" alt="方向" />
   <img src="https://img.shields.io/badge/经历-RoboMaster机甲大师-d73a49?style=flat-square" alt="经历" />
   <img src="https://img.shields.io/badge/状态-考研ing-d29922?style=flat-square" alt="状态" />
-  <img src="https://img.shields.io/badge/坐标-沈阳·中国-b31d28?style=flat-square" alt="坐标" />
+  <img src="https://img.shields.io/badge/坐标-淄博·中国-b31d28?style=flat-square" alt="坐标" />
   <img src="https://komarev.com/ghpvc/?username=xunkeran&label=Profile+Views&color=1f6feb&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -34,11 +34,11 @@
 
 ### 🤝 关于我
 
-- 🎓 自动化本科在读，正在备考研究生（控制科学与工程方向）
+- 🎓 智能制造本科在读，正在备考研究生（控制科学与工程方向）
 - 🧭 研究方向：自动控制 · 机器人控制 · 模型预测控制（MPC）
-- 🕹️ 前 RoboMaster 机甲大师参赛队员，负责电控与视觉
+- 🕹️ 前 RoboMaster 机甲大师参赛队员，负责电控
 - 🌱 正在学：MPC、嵌入式与工程化实践
-- 🧩 座右铭：专注当下，事事尽心 —— 控制超级小白，但一直在进步
+- 🧩 座右铭：我心匪石不可转，我心匪席不可卷 —— 控制超级小白，但一直在进步
 
 ### 🧭 研究方向
 
