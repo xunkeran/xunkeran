@@ -1,0 +1,41 @@
+name: 🐍 generate snake
+
+# 这条流水线做的事：读你的贡献热力图 → 生成一条吃格子的贪吃蛇 SVG → 推到 output 分支
+# README 里再用 <picture> 引用 output 分支上的那两个 svg 文件
+
+on:
+  schedule:
+    # 每天 UTC 00:00（北京时间 08:00）自动跑一次，追平你最新的贡献格子
+    - cron: "0 0 * * *"
+  # 支持在 Actions 页面点 "Run workflow" 手动跑，改完立刻看效果
+  workflow_dispatch:
+  # 每次推 main / master 也跑一次
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: 生成贪吃蛇 svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: 把 svg 推到 output 分支
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
