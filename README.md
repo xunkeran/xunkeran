@@ -101,10 +101,25 @@
 
 ## 📫 联系我 · Connect with Me
 
-- 📧 **邮箱**：2503183563@qq.com
-- 🐙 **GitHub**：[@xunkeran](https://github.com/xunkeran)
-- 🎯 **目标**：控制科学与工程 · 硕士研究生
-- 💬 **可以聊**：自动控制 / MPC / 机器人 / RoboMaster
+<p align="center">
+  <a href="https://github.com/xunkeran"><img src="https://img.shields.io/badge/GITHUB-xunkeran-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:2503183563@qq.com"><img src="https://img.shields.io/badge/EMAIL-2503183563@qq.com-d14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
+  <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=2503183563&amp;site=qq&amp;menu=yes"><img src="https://img.shields.io/badge/QQ-2503183563-12b7f5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" /></a>
+</p>
+
+<p align="center">
+  🎯 <b>目标</b>：控制科学与工程 · 硕士研究生　｜　💬 <b>可以聊</b>：自动控制 / MPC / 机器人 / RoboMaster
+</p>
+
+<p align="center">
+  Thanks for visiting! 🌟 <b>我心匪石不可转，我心匪席不可卷</b>
+</p>
+
+<!-- 想再加平台就照抄一行，logo 名去 simpleicons.org 查：
+  <a href="https://www.zhihu.com/people/你的ID"><img src="https://img.shields.io/badge/知乎-浔可然-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎" /></a>
+  <a href="https://orcid.org/0009-0000-0000-0000"><img src="https://img.shields.io/badge/ORCID-0009--0000--0000--0000-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://space.bilibili.com/你的UID"><img src="https://img.shields.io/badge/Bilibili-浔可然-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+-->
 
 ---
 
