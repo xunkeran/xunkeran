@@ -1,32 +1,124 @@
-# Hi 👋, I'm 浔可然
+<!--
+  编辑提示（这段注释不会显示在页面上）
+  · 顶部「打字机动画」来自 readme-typing-svg：想换文字就改下面 URL 里的 lines=，
+    多条用 ; 分隔，空格写 +，& 写 %26，中文可直接写在中文字符串里。
+  · 如果哪天图片不显示，把域名 readme-typing-svg.demolab.com 换成 readme-typing-svg.herokuapp.com 再试。
+  · 不想要的模块（trophy / stats / streak）直接删掉对应那几行即可。
+-->
 
-### 控制超级小白
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xunkeran&label=Profile views&color=0e75b6&style=flat" alt="xunkeran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xunkeran" alt="xunkeran" /></a> </p>
-
-- 🔭 I'm currently working on **努力考研ing**
-
-- 🌱 I'm currently learning **MPC**
-
-- 👯 I'm looking to collaborate on **自动化与机器人控制相关项目**
-
-- 📫 How to reach me **2503183563@qq.com**
-
-- ⚡ Fun fact **有一段很牢的RoboMaster机甲大师经历**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/xunkeran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="xunkeran" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1E90FF&center=true&vCenter=true&width=720&height=64&lines=Hi%2C+I%27m+Xunkeran;Hi%EF%BC%8C%E6%88%91%E6%98%AF%E6%B5%94%E5%8F%AF%E7%84%B6;Automation+Control+%26+Robotics;Control+Theory+%C2%B7+MPC;RoboMaster+%C2%B7+%E7%94%B5%E6%8E%A7+%26+%E8%A7%86%E8%A7%89;Keep+Calm+and+Keep+Learning" alt="Hi, I'm Xunkeran" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+<h3 align="center">浔可然 · Xunkeran</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xunkeran&show_icons=true&locale=en&layout=compact" alt="xunkeran" /></p>
+<p align="center">
+  <b>自动控制 · 机器人 · 模型预测控制 · RoboMaster</b>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xunkeran&show_icons=true&locale=en" alt="xunkeran" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/在读-自动化-1f6feb?style=flat-square" alt="在读" />
+  <img src="https://img.shields.io/badge/方向-控制理论·MPC-8957e5?style=flat-square" alt="方向" />
+  <img src="https://img.shields.io/badge/经历-RoboMaster机甲大师-d73a49?style=flat-square" alt="经历" />
+  <img src="https://img.shields.io/badge/状态-考研ing-d29922?style=flat-square" alt="状态" />
+  <img src="https://img.shields.io/badge/坐标-沈阳·中国-b31d28?style=flat-square" alt="坐标" />
+  <img src="https://komarev.com/ghpvc/?username=xunkeran&label=Profile+Views&color=1f6feb&style=flat-square" alt="Profile Views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xunkeran&" alt="xunkeran" /></p>
+---
 
+## 🌏 Language ｜ 语言
+
+<details open>
+<summary><b>CN 中文</b>（点击折叠）</summary>
+
+### 🤝 关于我
+
+- 🎓 自动化本科在读，正在备考研究生（控制科学与工程方向）
+- 🧭 研究方向：自动控制 · 机器人控制 · 模型预测控制（MPC）
+- 🕹️ 前 RoboMaster 机甲大师参赛队员，负责电控与视觉
+- 🌱 正在学：MPC、嵌入式与工程化实践
+- 🧩 座右铭：专注当下，事事尽心 —— 控制超级小白，但一直在进步
+
+### 🧭 研究方向
+
+- ⚙️ 自动控制理论
+- 🎯 模型预测控制（MPC）
+- 🤖 机器人控制
+- 📐 状态估计与信号处理
+- 🔌 嵌入式系统
+- 👁️ 机器视觉
+
+</details>
+
+<details>
+<summary><b>EN English</b>（点击展开）</summary>
+
+### 🤝 About Me
+
+- 🎓 Undergraduate in Automation, preparing for graduate study in Control Science & Engineering
+- 🧭 Interests: automatic control, robot control, model predictive control (MPC)
+- 🕹️ Former RoboMaster competitor, in charge of electronics & vision
+- 🌱 Currently learning: MPC, embedded systems, and engineering practice
+
+### 🧭 Research Interests
+
+- ⚙️ Control Theory
+- 🎯 Model Predictive Control
+- 🤖 Robotics
+- 📐 State Estimation
+- 🔌 Embedded Systems
+- 👁️ Computer Vision
+
+</details>
+
+---
+
+## 🛠️ 技术栈 · Tech Stack
+
+<p align="center"><b>语言 / Languages</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p align="center"><b>框架 / 工具 · Frameworks &amp; Tools</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📫 联系我 · Connect with Me
+
+- 📧 **邮箱**：2503183563@qq.com
+- 🐙 **GitHub**：[@xunkeran](https://github.com/xunkeran)
+- 🎯 **目标**：控制科学与工程 · 硕士研究生
+- 💬 **可以聊**：自动控制 / MPC / 机器人 / RoboMaster
+
+---
+
+## 📊 GitHub 数据
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xunkeran&show_icons=true&locale=zh&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=xunkeran&layout=compact&locale=zh&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=xunkeran&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xunkeran&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophy" />
+</p>
