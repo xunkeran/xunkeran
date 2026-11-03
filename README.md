@@ -125,5 +125,19 @@
 ## 📊 GitHub 数据
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xunkeran/xunkeran/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xunkeran/xunkeran/output/github-contribution-grid-snake.svg" />
+    <img alt="一条在浔可然贡献热力图上吃格子的贪吃蛇" src="https://raw.githubusercontent.com/xunkeran/xunkeran/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=xunkeran&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<!-- 如果 raw.githubusercontent.com 打不开（国内偶尔会），把上面 3 个链接的域名换成 jsDelivr 镜像：
+  https://raw.githubusercontent.com/xunkeran/xunkeran/output/xxx.svg
+  →
+  https://cdn.jsdelivr.net/gh/xunkeran/xunkeran@output/xxx.svg
+--> 
