@@ -7,10 +7,10 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1E90FF&center=true&vCenter=true&width=720&height=64&lines=Hi%2C+I%27m+Xun+Keran+%EF%BC%88%E6%B5%94%E5%8F%AF%E7%84%B6%EF%BC%89;Automation+Control+%26+Robotics;Keep+Calm+and+Keep+Learning;%E6%88%91%E5%BF%83%E5%8C%AA%E7%9F%B3%E4%B8%8D%E5%8F%AF%E8%BD%AC%EF%BC%8C%E6%88%91%E5%BF%83%E5%8C%AA%E5%B8%AD%E4%B8%8D%E5%8F%AF%E5%8D%B7" alt="Hi, I'm Xun Keran （浔可然）" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1E90FF&center=true&vCenter=true&width=720&height=64&lines=Hi%2C+I%27m+Xun+keran+%EF%BC%88%E6%B5%94%E5%8F%AF%E7%84%B6%EF%BC%89;Automation+Control+%26+Robotics;Keep+Calm+and+Keep+Learning;%E6%88%91%E5%BF%83%E5%8C%AA%E7%9F%B3%E4%B8%8D%E5%8F%AF%E8%BD%AC%EF%BC%8C%E6%88%91%E5%BF%83%E5%8C%AA%E5%B8%AD%E4%B8%8D%E5%8F%AF%E5%8D%B7" alt="Hi, I'm Xun keran （浔可然）" />
 </p>
 
-<h3 align="center">浔可然 · Xunkeran</h3>
+<h3 align="center">浔可然 · Xun keran</h3>
 
 <p align="center">
   <b>自动控制 · 机器人 · 模型预测控制 · RoboMaster</b>
